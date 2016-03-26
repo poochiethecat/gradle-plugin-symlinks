@@ -6,16 +6,14 @@
 
 Plugin for Handling Symbolic Links using java.nio
 
+<!---
 Features:
-* Feature 1
-* Feature 2
+TODO: add features
 
 ### Setup
-
-Releases are published to 
+TODO: add Setup description
+Releases are published to
 [gradle plugins portal](https://plugins.gradle.org/plugin/ch.poochiethecat.symlinks).
-
-
 
 ```groovy
 plugins {
@@ -24,5 +22,6 @@ plugins {
 ```
 
 ### Usage
-
+TODO: add usage description
+-->
 [![gradle plugin generator](http://img.shields.io/badge/Powered%20by-%20Gradle%20plugin%20generator-green.svg?style=flat-square)](https://github.com/xvik/generator-gradle-plugin)

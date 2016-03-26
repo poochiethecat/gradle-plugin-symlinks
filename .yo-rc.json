@@ -1,0 +1,23 @@
+{
+  "generator-gradle-plugin": {
+    "githubUser": "poochiethecat",
+    "authorName": "Lino von Burg",
+    "authorEmail": "poochiethecat@gmail.com",
+    "projectName": "symlinks",
+    "projectGroup": "ch.poochiethecat",
+    "projectPackage": "ch.poochiethecat.symlinks",
+    "projectVersion": "0.1.0",
+    "projectDesc": "Plugin for Handling Symbolic Links using java.nio",
+    "pluginPortalDesc": "Plugin for Handling Symbolic Links using java.nio",
+    "targetJava": "1.7",
+    "pluginPortalTags": "symbolic links, java.nio",
+    "mirrorToJcenter": false,
+    "pluginPortalUseCustomGroup": false,
+    "bintrayUser": "",
+    "bintrayRepo": "",
+    "bintrayTags": "",
+    "bintraySignFiles": false,
+    "mavenCentralSync": false,
+    "usedGeneratorVersion": "1.0.0"
+  }
+}
